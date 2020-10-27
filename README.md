@@ -1,2 +1,2 @@
 # nvsSPARQL
-Query NVS with sparql 
+Query NVS using sparql 
